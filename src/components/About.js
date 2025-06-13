@@ -27,10 +27,10 @@ const About = () => {
               <strong>Genre:</strong> Self-Help, Quantum Physics
             </li>
             <li>
-              <strong>Location:</strong> United States
+              <strong>Location:</strong> Washington, United States
             </li>
             <li>
-              <strong>Website:</strong> www.rickthompson.com
+              <strong>Website:</strong> posttensioningsolutions.com
             </li>
           </ul>
         </div>

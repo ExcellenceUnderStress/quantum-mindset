@@ -5,7 +5,7 @@ const Contacts = () => {
         {/* title */}
         <div className="titles">
           <div className="title">Get in Touch</div>
-          <div className="subtitle">Connect with the Author</div>
+          <div className="subtitle">Connect With the Author, or Request A Speaking Engagement</div>
         </div>
         {/* contact form */}
         <div className="contact-form">
@@ -60,10 +60,10 @@ const Contacts = () => {
           <div className="info-list">
             <ul>
               <li>
-                <strong>Email:</strong> author@rickthompson.com
+                <strong>Email:</strong> rick@posttensioningsolutions.com
               </li>
               <li>
-                <strong>Social Media:</strong> @rickthompsonwrites
+                <strong>Social Media:</strong> <a href="https://www.linkedin.com/in/rick-thompson-18449328/" target="_blank" rel="noopener noreferrer">@LinkedIn</a>
               </li>
               <li>
                 <strong>Newsletter:</strong> Subscribe on website
