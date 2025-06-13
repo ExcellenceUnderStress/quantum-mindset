@@ -40,9 +40,23 @@ const BookOverview = () => {
             </li>
           </ul>
         </div>
+        {/* Amazon purchase button */}
+        <div className="book-purchase">
+          <a 
+            href="https://www.amazon.com/Quantum-Mindset-Nutshell-School-Change/dp/0578610124" 
+            target="_blank" 
+            rel="noopener noreferrer" 
+            className="btn amazon-btn"
+          >
+            <span className="animated-button">
+              <span>Buy on Amazon</span>
+            </span>
+            <i className="icon fas fa-external-link-alt" />
+          </a>
+        </div>
         <div className="clear" />
       </div>
     </div>
   );
 };
-export default BookOverview; 
+export default BookOverview;

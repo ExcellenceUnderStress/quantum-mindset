@@ -67,7 +67,7 @@ const DesktopHeader = () => (
     </a>
     {/* amazon link */}
     <a href="https://www.amazon.com/Quantum-Mindset-Nutshell-School-Change/dp/0578610124" target="_blank" rel="noopener noreferrer" className="btn payment-method-icon">
-      <img src="images/lg.svg" alt="Amazon" className="amazon" />
+      <img src="images/lg.svg" alt="Buy on Amazon" className="amazon" />
     </a>
     {/* header sidebar */}
     <div className="header-sidebar">
@@ -101,8 +101,8 @@ const MobileHeader = () => {
         <span />
       </a>
       {/* amazon link */}
-      <a href="https://www.amazon.com/your-book-link" target="_blank" rel="noopener noreferrer" className="btn payment-method-icon">
-        <img src="images/lg.svg" alt="Amazon" className="amazon" />
+      <a href="https://www.amazon.com/Quantum-Mindset-Nutshell-School-Change/dp/0578610124" target="_blank" rel="noopener noreferrer" className="btn payment-method-icon">
+        <img src="images/lg.svg" alt="Buy on Amazon" className="amazon" />
       </a>
       {/* header sidebar */}
       <div className="header-sidebar">
